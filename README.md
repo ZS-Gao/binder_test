@@ -2,7 +2,7 @@
 
 | JupyterLab | Voilà |
 | :-----------------------: | :---------------------: |
-|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZS-Gao/pyomo_voila/HEAD) |[![Volia-Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZS-Gao/pyomo_voila/HEAD?urlpath=voila%2Frender%2Fwl_csv_ui.ipynb) |
+|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZS-Gao/binder_test/HEAD) |[![Binder - Voila](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZS-Gao/binder_test/main?labpath=test.ipynb)|
 
 A very simple test case for my binderhub.
 
